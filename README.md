@@ -2,8 +2,7 @@
 =============
 
 hello everybody
-I am giovanna and I have designed some patterns for my terrace floor
-next steps: 
-choose the best three
-make 3D sketch
-choose the definitive
+I am giovanna and I am from Milan, Italy (in Europe)
+I work in marketing and communication
+and I am taking this course to empower my working method
+with scientific tools for analysing, understanding and make use of informations
